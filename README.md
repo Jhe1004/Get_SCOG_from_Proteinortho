@@ -78,4 +78,4 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact me at [your.email@example.com].
+If you have any questions or suggestions, feel free to contact me at [j.he930724@gmail.com].
